@@ -1,9 +1,9 @@
 {
     "id": "89FACE01",
-    "path": "~/Documents/GitHub/intro-to-r-example/script_example.R",
-    "project_path": "script_example.R",
+    "path": "~/Documents/GitHub/intro-to-r-example/analysis/script_example.R",
+    "project_path": "analysis/script_example.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "103551474",
     "contents": "",
     "dirty": false,
     "created": 1668778285776.0,
@@ -12,14 +12,16 @@
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "3,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1668778304,
+    "lastKnownWriteTime": 1668778561,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1668778304091,
+    "last_content_update": 1668778561815,
     "read_only": false,
     "read_only_alternatives": []
 }
